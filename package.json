@@ -1,0 +1,15 @@
+{
+  "name": "netrox-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Custom WhatsApp Bot based on WhatsAsena",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.0.0"
+  },
+  "author": "Thisan04"
+}
